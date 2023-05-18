@@ -1,1 +1,3 @@
-Aula do GIT
+Aula do Git
+
+Feito algumas alterações
